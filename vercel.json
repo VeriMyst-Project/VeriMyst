@@ -1,0 +1,26 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "env": {
+    "JWT_SECRET": "mysupersecretkey1423",
+    "DATABASE_URL": "postgresql://neondb_owner:npg_jYJxghs4TqV9@ep-billowing-river-ahvkentj-pooler.c-3.us-east-1.aws.neon.tech/neondb?sslmode=require",
+    "NEXT_PUBLIC_API_URL": "https://verimyst-backend.vercel.app"
+  },
+  "functions": {
+    "app/api/**": {
+      "memory": 1024,
+      "maxDuration": 60
+    }
+  },
+  "headers": [
+    {
+      "source": "/api/:path*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache, no-store, must-revalidate"
+        }
+      ]
+    }
+  ]
+}

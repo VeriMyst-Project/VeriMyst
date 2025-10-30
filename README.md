@@ -238,6 +238,3 @@ Your support helps promote open-source truth verification and AI transparency.
 > Empowering truth through open AI innovation.
 
 ---
-
-Would you like me to add **GitHub badges** (Next.js, PostgreSQL, License, Contributors, etc.) to make the top section look more like a **professional open-source launch page** (like trending repos on GitHub)?
-

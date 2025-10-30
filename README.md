@@ -170,9 +170,9 @@ lib/
 | 👤 Name             | 💼 Role                             | 🌐 GitHub                                              |
 | ------------------- | ----------------------------------- | ------------------------------------------------------ |
 | **Ritik Kalal**     | Project Lead / Full Stack Developer | [@ritikkalal07](https://github.com/ritikkalal07)       |
-| **Harsh Mandaliya** | Frontend Developer                  | [@Harsh-Mandaliya](https://github.com/Harsh-Mandaliya) |
-| **MrA18Makes**      | Backend & AI Developer              | [@MrA18Makes](https://github.com/MrA18Makes)           |
-| **Dhruv**           | Database & DevOps Engineer          | [@dhruv18457](https://github.com/dhruv18457)           |
+| **Harsh Mandaliya** | Backend & AI Developer              | [@Harsh-Mandaliya](https://github.com/Harsh-Mandaliya) |
+| **MrA18Makes**      | Database & DevOps Engineer          | [@MrA18Makes](https://github.com/MrA18Makes)           |
+| **Dhruv**           | Frontend Developer                  | [@dhruv18457](https://github.com/dhruv18457)           |
 
 ---
 

@@ -232,7 +232,7 @@ Your support helps promote open-source truth verification and AI transparency.
 
 ---
 
-### 🏁 Built with ❤️ by the **VeriMyst Team**
+### 🏁 Built with ❤️ and AI by **VeriMyst Team**
 
 > Ritik Kalal • Harsh Mandaliya • MrA18Makes • Dhruv
 > Empowering truth through open AI innovation.
